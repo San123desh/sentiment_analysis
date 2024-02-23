@@ -10,7 +10,8 @@ This project focuses on sentiment analysis using VADER sentiment analysis tool. 
 
 - **Data Visualization**: Utilizes popular data science libraries such as NumPy, Matplotlib, and Seaborn for data analysis and visualization.
 
-- **Data Source**: The sentiment analysis is performed on a dataset containing [describe your dataset here].
+- **Data Source**: The sentiment analysis is performed on the Amazon Fine Food Review dataset, which is a comprehensive collection of user reviews for various food products available on Amazon. The use of this dataset allows for a diverse and rich analysis of sentiments expressed by users, providing valuable insights into the perception of food products in the online marketplace.
+
 
 ## Getting Started
 
